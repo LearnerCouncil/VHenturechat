@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Users/quinnconnolly/Desktop/Random Compaines/Village Home/Learner Server/Custom Plugins/EXTERNAL JARS/BungeeCord.jar"/>
+	<classpathentry kind="lib" path="/Users/quinnconnolly/Desktop/Random Compaines/Village Home/Learner Server/Custom Plugins/EXTERNAL JARS/DiscordSRV-Build-1.21.3.jar"/>
+	<classpathentry kind="lib" path="/Users/quinnconnolly/Desktop/Random Compaines/Village Home/Learner Server/Custom Plugins/EXTERNAL JARS/PlaceholderAPI-2.10.9.jar"/>
+	<classpathentry kind="lib" path="/Users/quinnconnolly/Desktop/Random Compaines/Village Home/Learner Server/Custom Plugins/EXTERNAL JARS/ProtocolLib.jar"/>
+	<classpathentry kind="lib" path="/Users/quinnconnolly/Desktop/Random Compaines/Village Home/Learner Server/Custom Plugins/EXTERNAL JARS/Vault.jar"/>
+	<classpathentry kind="lib" path="/Users/quinnconnolly/Desktop/Random Compaines/Village Home/Learner Server/Custom Plugins/EXTERNAL JARS/Factions.jar"/>
+	<classpathentry kind="lib" path="/Users/quinnconnolly/Desktop/Random Compaines/Village Home/Learner Server/Custom Plugins/EXTERNAL JARS/MassiveCore.jar"/>
+	<classpathentry kind="lib" path="/Users/quinnconnolly/Desktop/Random Compaines/Village Home/Learner Server/Custom Plugins/venturechat/lib"/>
+	<classpathentry kind="lib" path="/Users/quinnconnolly/Desktop/Random Compaines/Village Home/Learner Server/Custom Plugins/EXTERNAL JARS/Towny-0.96.7.0.jar"/>
+	<classpathentry kind="lib" path="/Users/quinnconnolly/Desktop/Random Compaines/Village Home/Learner Server/Custom Plugins/EXTERNAL JARS/TownyChat-0.86.jar"/>
+	<classpathentry kind="lib" path="/Users/quinnconnolly/Desktop/Random Compaines/Village Home/Learner Server/Custom Plugins/EXTERNAL JARS/spigot-1.13.jar"/>
+	<classpathentry kind="lib" path="/Users/quinnconnolly/Desktop/Random Compaines/Village Home/Learner Server/Custom Plugins/EXTERNAL JARS/spigot-1.16.5.jar"/>
+	<classpathentry kind="lib" path="/Users/quinnconnolly/Desktop/Random Compaines/Village Home/Learner Server/Custom Plugins/EXTERNAL JARS/spigot-1.8.8-R0.1-SNAPSHOT-latest.jar"/>
+	<classpathentry kind="lib" path="/Users/quinnconnolly/Desktop/Random Compaines/Village Home/Learner Server/Custom Plugins/EXTERNAL JARS/spigot-1.12.2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
